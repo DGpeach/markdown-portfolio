@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* Enjoy sushi
+* Weekends spent at :baseball:
+* Hawaii is paradise
