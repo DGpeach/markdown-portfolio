@@ -1,0 +1,3 @@
+- **Passionate** about leading teams
+- Customer **Obsessed**
+- *Communicate, communicate, communicate*
