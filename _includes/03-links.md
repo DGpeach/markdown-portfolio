@@ -1,1 +1,1 @@
-[Github] https://github.com/dgpeach
+[Github](https://github.com/dgpeach)
